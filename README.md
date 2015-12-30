@@ -18,7 +18,7 @@ You will need a configuration file. See the next section.
 
 ## Options
 
-Rss-finder requires a configuration file. It uses [edn](https://github.com/edn-format/edn) for the configuration file.
+Rss-finder requires a configuration file. It uses [edn](https://github.com/edn-format/edn) for the configuration file. The file must be located at `$HOME/.rss-finder/config.edn`.
 
 These are the available options:
 - `:rss-url` defines the URL of an RSS feed to parse
