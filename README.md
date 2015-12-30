@@ -80,10 +80,6 @@ Good luck!
 
 This tool is not meant to poll an RSS feed frequently.
 
-### Any Other Sections
-### That You Think
-### Might be Useful
-
 ## License
 
 Copyright © 2015 Corey Beres
